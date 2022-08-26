@@ -1,2 +1,2 @@
-# assets
+# Assets
 Various school assets.
